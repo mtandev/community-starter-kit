@@ -35,4 +35,12 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- newIssueWelcomeComment: >
+  Thanks for opening your first issue here! Be sure to follow the issue template!
+- newPRWelcomeComment: >
+  Thanks for opening this pull request! Please check out our contributing guidelines.
+- firstPRMergeComment: >
+  Congrats on merging your first pull request! We here at behaviorbot are proud of you!
+
+  
+
